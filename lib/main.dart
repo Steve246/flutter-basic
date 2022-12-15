@@ -1,6 +1,8 @@
 import "package:flutter/material.dart";
 // material dart buat kasih widget di aplikasi kita, kayak homebar dibawah, dll
 
+// https://www.youtube.com/watch?v=1xipg02Wu8s&t=19s&ab_channel=Fireship
+// sampe scalfold magic di video
 void main() {
   runApp(MyApp());
   // harus define class dibawah yang sesuai namanya
